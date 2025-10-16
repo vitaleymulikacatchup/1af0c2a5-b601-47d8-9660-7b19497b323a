@@ -1,0 +1,25 @@
+/* ============================================ */
+/* External CSS from https://zpep.com.ua/wp-content/plugins/simple-spoiler/css/simple-spoiler.min.css?ver=1.2 */
+/* Processed and formatted by AI */
+/* Size: 227 bytes */
+/* ============================================ */
+
+/* Spoiler Styles */
+.spoiler-head {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.folded:before {
+  content: "+";
+  margin-right: 5px;
+}
+
+.unfolded:before {
+  content: "–";
+  margin-right: 5px;
+}
+
+.spoiler-body {
+  padding: 10px;
+}
